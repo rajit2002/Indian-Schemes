@@ -1,0 +1,46 @@
+/*  custom the font family */
+
+  @import url('https://fonts.googleapis.com/css2?family=Inter:wght@500;600&display=swap');
+
+
+  @import url('https://fonts.googleapis.com/css2?family=Work+Sans:ital@1&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Work+Sans&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+    list-style: none;
+}
+
+
+/* 
+:root {
+  --color-bg: #1f1f38;
+  --color-bg-variant: #2c2c6c;
+  --color-primary: #4db5ff;
+  --color-primary-variant: rgba(77, 181, 255, 0.4);
+  --color-white: #fff;
+  --color-light: rgba(255, 255, 255, 0.6);
+
+  --container-width-lg: 75%;
+  --container-width-md: 86%;
+
+  --container-width-sm: 90%;
+  
+  --transition: all 400ms ease;
+} */
+
+body{
+  background-color:#d9d9d9;
+   padding: .3rem 1rem;
+ 
+   
+  
+  
+ 
+}
